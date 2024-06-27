@@ -1,7 +1,10 @@
 # Amazon Prime Dashboard
 
 
-![2](https://github.com/krspriya/Netflix-Prime-Hotstar-Dashboard-Power-BI-Project/assets/98299075/5c6f8cae-cb5c-4ff0-9f66-1f06b819bd13)
+
+
+![Screenshot 2024-06-27 124525](https://github.com/krspriya/Netflix-Prime-Hotstar-Dashboard-Power-BI-Project/assets/98299075/01bf87c1-5a4c-4b37-a055-e67c62b54800)
+
 
 
 
